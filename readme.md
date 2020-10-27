@@ -1,98 +1,101 @@
-**Desert**: (Resource) Dust devils
-**Desert**: (Resource) Ali's Rune Shop (Cosmic runes)
-**Desert**: (Resource) Blood Blitz/Rush is good for early fight caves
-**Desert**: (Resource) KQ Drops Wines Of Zamorak
-**Desert**: (Resource) Fire Giants for **Rune Scimitar**
-**Desert**: (Resource - Mage) Infinity
-**Desert**: (Melee Skills) Afk training at bandit camp
-**Desert**: (Magic) TzHaar can be bursted for decent XP in the Mor-Ul-Rek area.
-**Desert**: (Thieving) Blackjacking + Pyramid Plunder
-**Desert**: (Mining) Granite mine (fastest mining xp)
-**Desert**: (Herblore) Instant secondaries and unfinished pots
-**Desert**: (Herblore - Secondary) Potatoe Cactus Spawn
-**Desert**: (Herblore - Secondary / Farming) Only way to grow potatoe cactus
-**Desert**: (Fletching / Resource) Darts
-**Desert**: (Agility / Resource) Agility Pyramid, Very good early GP
-**Desert**: (Agility) Pollnivneach T70 rooftop
-**Desert**: (Crafting) Sandstorm machine (Fossil Island is free with Misthalin) - This is probably only good if you also take Fremennik
+# Trailblazer
+
+## Area Notes
+
+**Desert**: (Resource) Dust devils  
+**Desert**: (Resource) Ali's Rune Shop (Cosmic runes)  
+**Desert**: (Resource) Blood Blitz/Rush is good for early fight caves  
+**Desert**: (Resource) KQ Drops Wines Of Zamorak  
+**Desert**: (Resource) Fire Giants for **Rune Scimitar**  
+**Desert**: (Resource - Mage) Infinity  
+**Desert**: (Melee Skills) Afk training at bandit camp  
+**Desert**: (Magic) TzHaar can be bursted for decent XP in the Mor-Ul-Rek area.  
+**Desert**: (Thieving) Blackjacking + Pyramid Plunder  
+**Desert**: (Mining) Granite mine (fastest mining xp)  
+**Desert**: (Herblore) Instant secondaries and unfinished pots  
+**Desert**: (Herblore - Secondary) Potatoe Cactus Spawn  
+**Desert**: (Herblore - Secondary / Farming) Only way to grow potatoe cactus  
+**Desert**: (Fletching / Resource) Darts  
+**Desert**: (Agility / Resource) Agility Pyramid, Very good early GP  
+**Desert**: (Agility) Pollnivneach T70 rooftop  
+**Desert**: (Crafting) Sandstorm machine (Fossil Island is free with Misthalin) - This is probably only good if you also take Fremennik  
 **Desert**: (Hunter) Orange Salamanders (Decent - not great)
 
-
-**Asgarnia**: (Note) No Weiss
-**Asgarnia**: (Resource) Wines of Zamorak (only other place is wilderness - other than KQ)
-**Asgarnia**: (Resource) GWD Nuff Said
-**Asgarnia**: (Resource) Aviansies drop RCB
-**Asgarnia**: (Resource) Warriors Guild **Dragon Defender**
-**Asgarnia**: (Resource) Void Knight rune shop
-**Asgarnia**: (Resource) Rogue's Den **Rogues Outfit**
-**Asgarnia**: (Resource) Charter Ships (Not sure how good this will be)
-**Asgarnia**: (Resource) **Magic Shortbow** from spiritual rangers
-**Asgarnia**: (Resource) Dragonstone from crystal key
-**Asgarnia**: (Mining / Resource) Motherlode mine
-**Asgarnia**: (Prayer) Blue Dragons Taverly Dungeon
-**Asgarnia**: (Herblore) 2x Herblore Patch (Troll Stronghold and Falador)
-**Asgarnia**: (Herblore - Secondary) Noted Eye Of Newt
-**Asgarnia**: (Herblore / Resource) Chaos Druids in Taverly Dungeon
-**Asgarnia**: (Farming / Resource) Allotment + Herb Patch
-**Asgarnia**: (Farming) 2x Tree Patch (Taverly and Falador)
-**Asgarnia**: (Agility) Falador T50 Rooftop
-**Asgarnia**: (Construction) Phials (or the noted dude in rimmington)
+**Asgarnia**: (Note) No Weiss  
+**Asgarnia**: (Resource) Wines of Zamorak (only other place is wilderness - other than KQ)  
+**Asgarnia**: (Resource) GWD Nuff Said  
+**Asgarnia**: (Resource) Aviansies drop RCB  
+**Asgarnia**: (Resource) Warriors Guild **Dragon Defender**  
+**Asgarnia**: (Resource) Void Knight rune shop  
+**Asgarnia**: (Resource) Rogue's Den **Rogues Outfit**  
+**Asgarnia**: (Resource) Charter Ships (Not sure how good this will be)  
+**Asgarnia**: (Resource) **Magic Shortbow** from spiritual rangers  
+**Asgarnia**: (Resource) Dragonstone from crystal key  
+**Asgarnia**: (Mining / Resource) Motherlode mine  
+**Asgarnia**: (Prayer) Blue Dragons Taverly Dungeon  
+**Asgarnia**: (Herblore) 2x Herblore Patch (Troll Stronghold and Falador)  
+**Asgarnia**: (Herblore - Secondary) Noted Eye Of Newt  
+**Asgarnia**: (Herblore / Resource) Chaos Druids in Taverly Dungeon  
+**Asgarnia**: (Farming / Resource) Allotment + Herb Patch  
+**Asgarnia**: (Farming) 2x Tree Patch (Taverly and Falador)  
+**Asgarnia**: (Agility) Falador T50 Rooftop  
+**Asgarnia**: (Construction) Phials (or the noted dude in rimmington)  
 **Asgarnia**: (Construction) The UIM Balloon Construction Method (Maybe worth?)
 
-**Morytania**: (Resource) Temple Trekking - Too good
-**Morytania**: (Resource - Mage) Some Black Mystic (Gloves from Banshees, Top from Nechs); Ahrim's
-**Morytania**: (Resource) Barrows (Although you'll probably have to use slayer dart unless you take Kandarin)
-**Morytania**: (Prayer) Morytania has ectofuntus which will give 25x prayer xp (5x * (xp multiplier))
-**Morytania**: (Herblore) 2x Herblore Patches
-**Morytania**: (Herblore) Temple Trekking
-**Morytania**: (Herblore - Seeds) Nechyraels
-**Morytania**: (Farming) Temple Trekking (Watermelon Seeds)
-**Morytania**: (Crafting) Temple Trekking (Silver bars) *I actually did this on my ironman to 77 crafting*
-**Morytania**: (Fletching) Make Silver Bolts with those Silver bars and get fletching XP too
-**Morytania**: (Runecrafting) Banshees for pure essence
-**Morytania**: (Runecrafting) Temple Trekking for pure essence
-**Morytania (Good for XP T5)**: (Crafting) Oh, heres a sweaty method for you guys. You can AFK crafting at the shades of morton minigame(especially since there will be a lot of people)
+**Morytania**: (Resource) Temple Trekking - Too good  
+**Morytania**: (Resource - Mage) Some Black Mystic (Gloves from Banshees, Top from Nechs); Ahrim's  
+**Morytania**: (Resource) Barrows (Although you'll probably have to use slayer dart unless you take Kandarin)  
+**Morytania**: (Prayer) Morytania has ectofuntus which will give 25x prayer xp (5x * (xp multiplier))  
+**Morytania**: (Herblore) 2x Herblore Patches  
+**Morytania**: (Herblore) Temple Trekking  
+**Morytania**: (Herblore - Seeds) Nechyraels  
+**Morytania**: (Farming) Temple Trekking (Watermelon Seeds)  
+**Morytania**: (Crafting) Temple Trekking (Silver bars) *I actually did this on my ironman to 77 crafting\*  
+**Morytania**: (Fletching) Make Silver Bolts with those Silver bars and get fletching XP too  
+**Morytania**: (Runecrafting) Banshees for pure essence  
+**Morytania**: (Runecrafting) Temple Trekking for pure essence  
+**Morytania (Good for XP T5)**: (Crafting) Oh, heres a sweaty method for you guys. You can AFK crafting at the shades of morton minigame (especially since there will be a lot of people)
 
-**Fremmenik (Good for XP T5)**: AFK Strength training at blast furnace
+**Fremmenik (Good for XP T5)**: AFK Strength training at blast furnace  
 **Fremmenik**: (Herblore) Swamp Tar from Barrels on Ship (I actually did this... it's not great)
 
-**Tirannwn**: (Resource) Gauntlet for Rune Shit and GP
-**Tirannwn**: (Resource) Rune arrows buyable
-**Tirannwn**: (Resource) Rune shop (Cosmic runes)
-**Tirannwn**: (Resource) Dragon Halberd
-**Tirannwn**: (Resource - Mage) Some light mystic (Top from Kurask)
-**Tirannwn**: (Resource) Dragonstone from crystal key
-**Tirannwn**: (Woodcutting) Teak Tree Grove
-**Tirannwn**: (Construction) Teak Tree Grove
-**Tirannwn**: (Agility) Good Agility Course
-**Tirannwn**: (Smithing) Zalcano...
-**Tirannwn**: (Herblore - Seeds) Nechyraels
-**Tirannwn**: (Herblore - Seeds) Kurasks
-**Tirannwn**: (Runecrafting) Zulrah for pure essence
-**Tirannwn**: (Hunter) *What the fuck there are Chinchompas here???* Only if you have box trap from Nardah Hunting store, Kandarin, or Lunar Spells.
+**Tirannwn**: (Resource) Gauntlet for Rune Shit and GP  
+**Tirannwn**: (Resource) Rune arrows buyable  
+**Tirannwn**: (Resource) Rune shop (Cosmic runes)  
+**Tirannwn**: (Resource) Dragon Halberd  
+**Tirannwn**: (Resource - Mage) Some light mystic (Top from Kurask)  
+**Tirannwn**: (Resource) Dragonstone from crystal key  
+**Tirannwn**: (Woodcutting) Teak Tree Grove  
+**Tirannwn**: (Construction) Teak Tree Grove  
+**Tirannwn**: (Agility) Good Agility Course  
+**Tirannwn**: (Smithing) Zalcano...  
+**Tirannwn**: (Herblore - Seeds) Nechyraels  
+**Tirannwn**: (Herblore - Seeds) Kurasks  
+**Tirannwn**: (Runecrafting) Zulrah for pure essence  
+**Tirannwn**: (Hunter) _What the fuck there are Chinchompas here???_ Only if you have box trap from Nardah Hunting store, Kandarin, or Lunar Spells.
 
-
-**Kandarin**: (Resource) Zamorak Warriors and Fire Giants for **Rune Scimitar**
-**Kandarin**: (Resource - Mage) Buyable **Mystic Armour**
-**Kandarin**: (Resource) Minnows
-**Kandarin**: (Resource) **Ardougne Cloak** an Iron man staple
-**Kandarin**: (Resource) Iban Blast and Trident
-**Kandarin**: (Resource) Piety
-**Kandarin**: (Runecrafting) ZMI Altar (Although this is probably only good with Fremmy too)
-**Kandarin**: (Prayer) Myths Guild Dragons
-**Kandarin**: (Thieving) Ardy knights
-**Kandarin**: (Thieving / Resouce) Ardy Cloak
-**Kandarin**: (Fishing / Strength / Agility) Barbarian Fishing
-**Kandarin**: (Herblore) 2x Herb Patches
-**Kandarin**: (Herblore - Secondary) Tower of life for red spider eggs
-**Kandarin**: (Herblore) Salarin the Twisted
-**Kandarin**: (Crafting /  Resource) Filling buckets of sand (Probably only good with fremmy
-**Kandarin**: (Hunting) Chinchompas
-**Kandarin**: (Hunting) Red Salamanders (Very good xp)
-**Kandarin**: (Hunting) Falconry
+**Kandarin**: (Resource) Zamorak Warriors and Fire Giants for **Rune Scimitar**  
+**Kandarin**: (Resource - Mage) Buyable **Mystic Armour**  
+**Kandarin**: (Resource) Minnows  
+**Kandarin**: (Resource) **Ardougne Cloak** an Iron man staple  
+**Kandarin**: (Resource) Iban Blast and Trident  
+**Kandarin**: (Resource) Piety  
+**Kandarin**: (Runecrafting) ZMI Altar (Although this is probably only good with Fremmy too)  
+**Kandarin**: (Prayer) Myths Guild Dragons  
+**Kandarin**: (Thieving) Ardy knights  
+**Kandarin**: (Thieving / Resouce) Ardy Cloak  
+**Kandarin**: (Fishing / Strength / Agility) Barbarian Fishing  
+**Kandarin**: (Herblore) 2x Herb Patches  
+**Kandarin**: (Herblore - Secondary) Tower of life for red spider eggs  
+**Kandarin**: (Herblore) Salarin the Twisted  
+**Kandarin**: (Crafting / Resource) Filling buckets of sand (Probably only good with fremmy  
+**Kandarin**: (Hunting) Chinchompas  
+**Kandarin**: (Hunting) Red Salamanders (Very good xp)  
+**Kandarin**: (Hunting) Falconry  
 **Kandarin**: (Construction) BUTLER
 
 General Observations:
+
 1. (Runecrafting) only appears viable if you pick Fremmenik - Fire runes from desert next best thing? Dayealt Essence worth? ZMI is probably OK with infinite run.
 2. (Crafting) Difficult without superglass make from Fremmenik - Sand and shit may not be viable - Best for this is Fremmy or Mory
 3. (Resource - Mage): Magic Armour is going to be a BITCCHCHHH without Kandarin (can't buy mystic)
@@ -108,7 +111,7 @@ Skills:
 **Attack**: Slayer
 **Strength**: Slayer
 **Defense**: Slayer
-**Ranged**:  Slayer
+**Ranged**: Slayer
 **Prayer**: Blue dragons in taverly dungeon (Limestone altar in house (cant do higher without fremmy) [175%, 225%, 275%])
 **Magic**: Some MTA; Burst Tzhaar and Slayer
 **Runecrafting**: Fire Runes and maybe Law Rune Balloon Method? Pure Essence from Zulrah and Mining
@@ -117,7 +120,7 @@ Skills:
 **Agility**: Best Course
 **Herblore**: See below
 **Thieving**: Blackjacking and PP to 99. Master Farmers
-**Crafting**:  See below
+**Crafting**: See below
 **Fletching**: Darts and Willows and Maples from WC (Maples only from farming)
 **Slayer**: Yep
 **Hunter**: Varrock Museum -> Orange Salamanders -> Chins in Prif (Box Trap from Nardah Store)
@@ -125,7 +128,7 @@ Skills:
 **Smithing**: Zalcano
 **Fishing**: Karams
 **Cooking**: Karams
-**Firemaking**: Old fashioned way 
+**Firemaking**: Old fashioned way
 **Woodcutting**: Teaks/Willows/Maples (Teaks on Fossil Island)
 **Farming**: Tree Seeds from Birdhouse runs, Allotment and Herbs from Master farmers after 99 thieve
 
@@ -149,13 +152,12 @@ Torstol: Super combat
 
 **Special: Crafting**
 Methods:
+
 1. Mine Soft Clay with bracelet and infinite harvest
 2. Mine Gold and smith into gold bars
 3. Flax from zulrah
 4. Battlestaves from zulrah and varrock
 5. Blue dragonhide from Blue Dragons in taverly (Tan in al kharid)
-
-
 
 **Items**
 Magic Shortbow: Spiritual warrior or fletching
