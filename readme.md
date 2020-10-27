@@ -164,23 +164,23 @@ Methods:
 
 ### Items
 
-Magic Shortbow: Spiritual warrior or fletching  
-Light Mystic Top: Kurask  
-MTA Gear?  
-RCB: Aviansies and 69 fletch (Armadyl GWD Item might be problematic - Zammy Monk Top (Wine Temple) - Sara Monks Robe - Bandos??)  
-Rune Scim: Fire Giants in smoke dungeon  
-Whip: Abyssal Area from Fairy Ring  
-Bone Crossbow: Death to the dorgeshuun  
-Blowpipe  
-Armadyl Crossbow  
-Zammy Spear  
-Dragon Defender from Warriors Guild  
-Rune + Dragon Boots: Nechs + Spiritual Mages  
-Dhide: Green from Dragon Slayer + Upgrade as I get it  
-Dragon dagger and longsword: Zanaris  
-Glory: From Crystal Key or 83 hunter (whichever comes first)  
-Fury: Eventually  
-Dragon Med: Zulrah probably (this may be my best helmet
+- Magic Shortbow: Spiritual warrior or fletching
+- Light Mystic Top: Kurask
+- MTA Gear?
+- RCB: Aviansies and 69 fletch (Armadyl GWD Item might be problematic Zammy Monk Top (Wine Temple) - Sara Monks Robe - Bandos??)
+- Rune Scim: Fire Giants in smoke dungeon
+- Whip: Abyssal Area from Fairy Ring
+- Bone Crossbow: Death to the dorgeshuun
+- Blowpipe
+- Armadyl Crossbow
+- Zammy Spear
+- Dragon Defender from Warriors Guild
+- Rune + Dragon Boots: Nechs + Spiritual Mages
+- Dhide: Green from Dragon Slayer + Upgrade as I get it
+- Dragon dagger and longsword: Zanaris
+- Glory: From Crystal Key or 83 hunter (whichever comes first)
+- Fury: Eventually
+- Dragon Med: Zulrah probably (this may be my best helmet
 
 ## Gotchas
 
