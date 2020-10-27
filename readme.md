@@ -109,7 +109,8 @@ Combinations:
 
 **Relic**: Infinite Harvest
 
-Skills:
+### Skills
+
 **Attack**: Slayer  
 **Strength**: Slayer  
 **Defense**: Slayer  
@@ -161,35 +162,37 @@ Methods:
 4. Battlestaves from zulrah and varrock
 5. Blue dragonhide from Blue Dragons in taverly (Tan in al kharid)
 
-**Items**
-Magic Shortbow: Spiritual warrior or fletching
-Light Mystic Top: Kurask
-MTA Gear?
-RCB: Aviansies and 69 fletch (Armadyl GWD Item might be problematic - Zammy Monk Top (Wine Temple) - Sara Monks Robe - Bandos??)
-Rune Scim: Fire Giants in smoke dungeon
-Whip: Abyssal Area from Fairy Ring
-Bone Crossbow: Death to the dorgeshuun
-Blowpipe
-Armadyl Crossbow
-Zammy Spear
-Dragon Defender from Warriors Guild
-Rune + Dragon Boots: Nechs + Spiritual Mages
-Dhide: Green from Dragon Slayer + Upgrade as I get it
-Dragon dagger and longsword: Zanaris
-Glory: From Crystal Key or 83 hunter (whichever comes first)
-Fury: Eventually
+### Items
+
+Magic Shortbow: Spiritual warrior or fletching  
+Light Mystic Top: Kurask  
+MTA Gear?  
+RCB: Aviansies and 69 fletch (Armadyl GWD Item might be problematic - Zammy Monk Top (Wine Temple) - Sara Monks Robe - Bandos??)  
+Rune Scim: Fire Giants in smoke dungeon  
+Whip: Abyssal Area from Fairy Ring  
+Bone Crossbow: Death to the dorgeshuun  
+Blowpipe  
+Armadyl Crossbow  
+Zammy Spear  
+Dragon Defender from Warriors Guild  
+Rune + Dragon Boots: Nechs + Spiritual Mages  
+Dhide: Green from Dragon Slayer + Upgrade as I get it  
+Dragon dagger and longsword: Zanaris  
+Glory: From Crystal Key or 83 hunter (whichever comes first)  
+Fury: Eventually  
 Dragon Med: Zulrah probably (this may be my best helmet
 
-Gotchas:
-**Herblore**: Secondaries and seeds (make sure you have patches!!!) (Red spider eggs spawn in wildy and varrock sewer, Tower of Life for Kandarin; Potatoe Cacti is pretty much desert only; Noted Eye of Newt from Kandarin or Asgarnia
-**Resource - Mage**: Kandarin is the only freebie really - the others make you work...
-**Construction**: No butler unless you pick Kandarin!!! (Tirannwn and Asgarnia both have alternatives)
-**Resource - MSB**: Magic Shortbow is either 80 fletching or Spiritual Ranger (Or a lucky hard+ clue)
-**Farming**: Birdhouse runs are the only viable way to get tree seeds. Watermelon+ Allotment seeds are really only viable from Temple Trekking
+## Gotchas
+
+**Herblore**: Secondaries and seeds (make sure you have patches!!!) (Red spider eggs spawn in wildy and varrock sewer, Tower of Life for Kandarin; Potatoe Cacti is pretty much desert only; Noted Eye of Newt from Kandarin or Asgarnia  
+**Resource - Mage**: Kandarin is the only freebie really - the others make you work...  
+**Construction**: No butler unless you pick Kandarin!!! (Tirannwn and Asgarnia both have alternatives)  
+**Resource - MSB**: Magic Shortbow is either 80 fletching or Spiritual Ranger (Or a lucky hard+ clue)  
+**Farming**: Birdhouse runs are the only viable way to get tree seeds. Watermelon+ Allotment seeds are really only viable from Temple Trekking  
 **Resource - Dragonstone**: Asgarnia or Tirannwn for Crystal Key. Wilderness has rogues chest. All others are RDT so be wary. Otherwise, get 83 hunter for dragon implings
 
-Freebies:
-**Fishing**: Karambwans (assuming Infinite Harvest)
-**Cooking**: Karambwans
-**Woodcutting**: Willows are free - you can grow Teak trees on Fossil Island
+Freebies:  
+**Fishing**: Karambwans (assuming Infinite Harvest)  
+**Cooking**: Karambwans  
+**Woodcutting**: Willows are free - you can grow Teak trees on Fossil Island  
 **Firemaking**: The old fashioned way
