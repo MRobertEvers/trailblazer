@@ -94,60 +94,62 @@
 **Kandarin**: (Hunting) Falconry  
 **Kandarin**: (Construction) BUTLER
 
-General Observations:
+Combinations:
+**Desert + Fremennik**: (Magic) Burst Rock Lobsters
+
+## General Observations
 
 1. (Runecrafting) only appears viable if you pick Fremmenik - Fire runes from desert next best thing? Dayealt Essence worth? ZMI is probably OK with infinite run.
 2. (Crafting) Difficult without superglass make from Fremmenik - Sand and shit may not be viable - Best for this is Fremmy or Mory
 3. (Resource - Mage): Magic Armour is going to be a BITCCHCHHH without Kandarin (can't buy mystic)
 
-Combinations:
-**Desert + Fremennik**: (Magic) Burst Rock Lobsters
+## My Choice
 
-**My Choice**
 **Desert + Asgarnia + Tirannwn**: Crafting and Runecrafting - Fire runes may still be good. Crafting ???? Flax from Zulrah? This may be a reason to pick the Process Relic... Zulrah wont be as Farmable without Trident. 4:30-6min kills. Need antipoisons, buyable from Jiminua's Jungle Store (No guthix rest...) Food will be annoying without Harvest... Same with construction... Gold Jewelry may still be viable, Clay can be mined with water bracelet + instant bank... Gold is slow to mine sooo where to get gold? Dragonhide shit may work with blue dragons. Making glass could still work but... making soda ash, then glass, then blowing... maybe not. Battlestaves? We have fire obelisk.
+
 **Relic**: Infinite Harvest
 
 Skills:
-**Attack**: Slayer
-**Strength**: Slayer
-**Defense**: Slayer
-**Ranged**: Slayer
-**Prayer**: Blue dragons in taverly dungeon (Limestone altar in house (cant do higher without fremmy) [175%, 225%, 275%])
-**Magic**: Some MTA; Burst Tzhaar and Slayer
-**Runecrafting**: Fire Runes and maybe Law Rune Balloon Method? Pure Essence from Zulrah and Mining
-**Construction**: Teak Logs from Woodcutting and infinite harvest. Not sure best way to turn into planks yet. Unnote planks at phials in rimmington.
-**Hitpoints**: Slayer
-**Agility**: Best Course
-**Herblore**: See below
-**Thieving**: Blackjacking and PP to 99. Master Farmers
-**Crafting**: See below
-**Fletching**: Darts and Willows and Maples from WC (Maples only from farming)
-**Slayer**: Yep
-**Hunter**: Varrock Museum -> Orange Salamanders -> Chins in Prif (Box Trap from Nardah Store)
-**Mining**: Granite and Sandstone. Rune Essence
-**Smithing**: Zalcano
-**Fishing**: Karams
-**Cooking**: Karams
-**Firemaking**: Old fashioned way
-**Woodcutting**: Teaks/Willows/Maples (Teaks on Fossil Island)
+**Attack**: Slayer  
+**Strength**: Slayer  
+**Defense**: Slayer  
+**Ranged**: Slayer  
+**Prayer**: Blue dragons in taverly dungeon (Limestone altar in house (cant do higher without fremmy) [175%, 225%, 275%])  
+**Magic**: Some MTA; Burst Tzhaar and Slayer  
+**Runecrafting**: Fire Runes and maybe Law Rune Balloon Method? Pure Essence from Zulrah and Mining  
+**Construction**: Teak Logs from Woodcutting and infinite harvest. Not sure best way to turn into planks yet. Unnote planks at phials in rimmington.  
+**Hitpoints**: Slayer  
+**Agility**: Best Course  
+**Herblore**: See below  
+**Thieving**: Blackjacking and PP to 99. Master Farmers  
+**Crafting**: See below  
+**Fletching**: Darts and Willows and Maples from WC (Maples only from farming)  
+**Slayer**: Yep  
+**Hunter**: Varrock Museum -> Orange Salamanders -> Chins in Prif (Box Trap from Nardah Store)  
+**Mining**: Granite and Sandstone. Rune Essence  
+**Smithing**: Zalcano  
+**Fishing**: Karams  
+**Cooking**: Karams  
+**Firemaking**: Old fashioned way  
+**Woodcutting**: Teaks/Willows/Maples (Teaks on Fossil Island)  
 **Farming**: Tree Seeds from Birdhouse runs, Allotment and Herbs from Master farmers after 99 thieve
 
-**Special: Herblore**
-Patches (2): Troll Stronghold and Falador
-Seeds: Master Farmers, Nechs (Prif), Kurasks (Prif)
-Guam: Swamp Tar from Zulrah or Noted Eye Of New (Asgarnia Port Sarim)
-Marrentil: Swamp Tar from Zulrah
-Tarromin: Swamp Tar from Zulrah or Limpwurts from farming
-Harralandar: Swamp Tar from Zulrah or Chocolate from Culinaromancer's Chest or (red spider eggs from varrock spawn)
-Ranarr: Snape Grass (Spawn by crafting guild) from farming
-Toadflax: Pass early on (Birdhouse runs and giant mole for Bird's nest)
-Irit: Noted Eye of Newt
-Avantoe: Snape Grass from farming
-Kwaurm: Limpwurts from farming
-Snapdragon: Red spider eggs from varrock spawn (not a viable training method)
-Cadantine: Whiteberries from farming
-Lantadym: Blue dragon scales in taverly dungeon or Potatoe cacti from kalphite or farming in Desert
-Dwarf Weed: Wine of Zammy in temple
+**Special: Herblore**  
+Patches (2): Troll Stronghold and Falador  
+Seeds: Master Farmers, Nechs (Prif), Kurasks (Prif)  
+Guam: Swamp Tar from Zulrah or Noted Eye Of New (Asgarnia Port Sarim)  
+Marrentil: Swamp Tar from Zulrah  
+Tarromin: Swamp Tar from Zulrah or Limpwurts from farming  
+Harralandar: Swamp Tar from Zulrah or Chocolate from Culinaromancer's Chest or (red spider eggs from varrock spawn)  
+Ranarr: Snape Grass (Spawn by crafting guild) from farming  
+Toadflax: Pass early on (Birdhouse runs and giant mole for Bird's nest)  
+Irit: Noted Eye of Newt  
+Avantoe: Snape Grass from farming  
+Kwaurm: Limpwurts from farming  
+Snapdragon: Red spider eggs from varrock spawn (not a viable training method)  
+Cadantine: Whiteberries from farming  
+Lantadym: Blue dragon scales in taverly dungeon or Potatoe cacti from kalphite or farming in Desert  
+Dwarf Weed: Wine of Zammy in temple  
 Torstol: Super combat
 
 **Special: Crafting**
