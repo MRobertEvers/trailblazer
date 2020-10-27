@@ -191,7 +191,8 @@ Methods:
 **Farming**: Birdhouse runs are the only viable way to get tree seeds. Watermelon+ Allotment seeds are really only viable from Temple Trekking  
 **Resource - Dragonstone**: Asgarnia or Tirannwn for Crystal Key. Wilderness has rogues chest. All others are RDT so be wary. Otherwise, get 83 hunter for dragon implings
 
-Freebies:  
+## Freebies
+
 **Fishing**: Karambwans (assuming Infinite Harvest)  
 **Cooking**: Karambwans  
 **Woodcutting**: Willows are free - you can grow Teak trees on Fossil Island  
