@@ -168,7 +168,7 @@ Methods:
 - Light Mystic Top: Kurask
 - MTA Gear?
 - RCB: Aviansies and 69 fletch (Armadyl GWD Item might be problematic Zammy Monk Top (Wine Temple) - Sara Monks Robe - Bandos??)
-- Rune Scim: Fire Giants in smoke dungeon
+- Rune Scim: Fire Giants in smoke dungeon - Can be bought in Prif...
 - Whip: Abyssal Area from Fairy Ring
 - Bone Crossbow: Death to the dorgeshuun
 - Blowpipe
